@@ -18,3 +18,15 @@ margin:20px;
 {
 margin-left:20px;
 }
+.movie_head
+{
+font-size:20px;
+border: radius 10px;
+padding:6px 22px;
+margin-bottom: 15px;
+}
+.movie_head i
+{
+    float:right;
+}
+.movie_text span { color: orange; }
