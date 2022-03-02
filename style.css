@@ -30,3 +30,10 @@ margin-bottom: 15px;
     float:right;
 }
 .movie_text span { color: orange; }
+.book
+{
+margin-bottom:20px;
+}
+#contact iframe{
+width: 100%;
+}
